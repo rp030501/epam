@@ -1,0 +1,17 @@
+package com.epam.PatternUsingForLoop;
+
+import java.util.Scanner;
+
+public class ForLoop {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("===================");
+		System.out.println("Pyramid");
+		System.out.println();
+		System.out.println("Enter Number");
+		
+
+	}
+
+}

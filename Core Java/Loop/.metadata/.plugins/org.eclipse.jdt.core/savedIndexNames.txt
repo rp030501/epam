@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\EPAM\Core Java\Loop\.metadata\.plugins\org.eclipse.jdt.core
+3245657038.index
+1865797976.index
+3932802637.index
